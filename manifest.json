@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "D3 Graph Cluster Viewer",
+    "version": "1.0",
+    "description": "Visualizes 3 random project clusters with D3",
+    "permissions": [],
+    "action": {
+      "default_popup": "index.html"
+    }
+    // },
+    // "icons": {
+    //   "48": "assets/icon48.png",
+    //   "128": "assets/icon128.png"
+    // }
+  }
+  

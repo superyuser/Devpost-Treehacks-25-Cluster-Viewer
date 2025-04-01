@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    overflow: hidden;
+    height: 100%;
+    color: white; /* optional: default text color */
+  }
+  
+  #root {
+    height: 100%;
+  }
+  
